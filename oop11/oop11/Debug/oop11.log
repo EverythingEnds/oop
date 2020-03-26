@@ -1,0 +1,26 @@
+﻿  oop11.cpp
+c:\users\леша\desktop\ooplab1\oop11\oop11\oop11.cpp(427): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note:  см. объявление "strcpy"
+  c:\users\леша\desktop\ooplab1\oop11\oop11\oop11.cpp(425): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  c:\users\леша\desktop\ooplab1\oop11\oop11\oop11.cpp(41): note: выполняется компиляция ссылки на экземпляр шаблон функции "AutomobileTransport2<T1,T2>::AutomobileTransport2(char *,char *,T1,T2)"
+          with
+          [
+              T1=int,
+              T2=int
+          ]
+  c:\users\леша\desktop\ooplab1\oop11\oop11\oop11.cpp(56): note: выполняется компиляция ссылки на экземпляр шаблон класс "AutomobileTransport2<T1,T2>"
+          with
+          [
+              T1=int,
+              T2=int
+          ]
+  c:\users\леша\desktop\ooplab1\oop11\oop11\oop11.cpp(82): note: выполняется компиляция ссылки на экземпляр шаблон класс "Bus<T1,T2>"
+          with
+          [
+              T1=int,
+              T2=int
+          ]
+  c:\users\леша\desktop\ooplab1\oop11\oop11\oop11.cpp(133): note: выполняется компиляция ссылки на экземпляр шаблон класс "AutomobileWagon<int,int>"
+c:\users\леша\desktop\ooplab1\oop11\oop11\oop11.cpp(429): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note:  см. объявление "strcpy"
+  oop11.vcxproj -> C:\Users\Леша\Desktop\OOPlab1\oop11\Debug\oop11.exe
